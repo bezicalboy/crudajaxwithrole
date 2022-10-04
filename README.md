@@ -1,6 +1,6 @@
 <h1>Screenshot & video</h1>
 <p align="center"> 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/7qsstkHCWds" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/7qsstkHCWds" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </p>
 <br />
 
