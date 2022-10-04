@@ -1,6 +1,9 @@
 <h1>How To Use This Project</h1>
-<p>Edit your ENV file and make new database </p>
-<p>then run php artisan migrate:fresh --seed</p>
+<ul>
+<li>Edit your ENV file and make new database </li>
+<li>then run php artisan migrate:fresh --seed</li>
+</ul>
+
 
 
 
