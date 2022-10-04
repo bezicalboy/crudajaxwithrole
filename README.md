@@ -1,6 +1,6 @@
 <h1>Screenshot & video</h1>
 <p align="center"> 
-[<iframe width="560" height="315" src="https://www.youtube.com/embed/XHECZDy_ctg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>](https://youtu.be/7qsstkHCWds)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XHECZDy_ctg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <br />
 
 ![download (20)](https://user-images.githubusercontent.com/89235834/193780327-452dc3e4-e555-473e-8cf4-421ca8fae769.png)
